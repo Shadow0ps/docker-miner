@@ -6,11 +6,11 @@ threads=$4
 
 if [ -z "$1" ]
 then
-   pool=stratum+tcp://proxy.etnminer.xyz:3333
+   pool=stratum+tcp://nl.etnpool.net:3333
 fi
 if [ -z "$2" ]
 then
-   addr=etnkL9TUosgEGFh34xvwoTi3GEAqAniGRNB5XrmEi28YQNxZSeuvX1kY73mv2QVYT6f8tbnBdwV513JwEnqCeAkj15MTttDdxg
+   addr=etnkNHSZYCEbJ1TfpWgJ5K5deC8YE1NPaCdjMxZZUL1TXbRrXY1oWgUBsZ4wQaMY1BGwFpSXcpkVHjEgXC7TFd5wAgznALQZ5E
 fi
 if [ -z "$3" ]
 then
